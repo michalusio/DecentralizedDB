@@ -1,0 +1,27 @@
+{
+  "publicKey": [
+    "-----BEGIN PUBLIC KEY-----",
+    "MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgFXPeJsFrBIw3hcW95UjpMcbrMNo",
+    "DYEAqinhfnL8W25HEbQQ0p3dKp13o2ezkGleRKjCsXckl4tNJKiubPeiqScnEYDp",
+    "SC0G7+Fk056iJulHgWK2WQerAr1k+1mLOqatBM6dhsO14YJXGs4YBfQ2os3PJr17",
+    "mRDUw4by4hguqBXrAgMBAAE=",
+    "-----END PUBLIC KEY-----"
+  ],
+  "privateKey": [
+    "-----BEGIN RSA PRIVATE KEY-----",
+    "MIICWgIBAAKBgFXPeJsFrBIw3hcW95UjpMcbrMNoDYEAqinhfnL8W25HEbQQ0p3d",
+    "Kp13o2ezkGleRKjCsXckl4tNJKiubPeiqScnEYDpSC0G7+Fk056iJulHgWK2WQer",
+    "Ar1k+1mLOqatBM6dhsO14YJXGs4YBfQ2os3PJr17mRDUw4by4hguqBXrAgMBAAEC",
+    "gYAoeyC1WT6ssjsDf4U66T7B429kG8FLG0orScKCckSbyJE0dj810/FXqen/cPlu",
+    "i9cuGfLodu26/KCPpwGm7SiI0DM2kBJCJBq/MNRdxJXhzsq1uMWjQ5NHNNyvlMKz",
+    "9Ct8StQIL0NPqfx5WHdHSoH6Mz1ODcvBtmlOZiuy9+YdaQJBAKWnHIPo9vnLS0qo",
+    "zgp/Zmj/io/wyr5K5Vv2Txom0ANN96FAkAra4QtrAl96OAtIGGJBGvkH/z5dr8os",
+    "VB8r1y0CQQCEnI5IiIk5KVyQ/gWnDNmIZZJE5npnVex0AE8hfmpw+5H3k581lU6w",
+    "h9DpwAbXn1RUXeT9vrjBeLAWxBTLzVB3AkBlj1MYPJhPBaifmWbZYMp0zVcycLqc",
+    "eGauPxC4Q9t8ayzLHD4zqYYX7f+CcfgyUn1AoBHdZF3E6sN//DWG9uXxAkAYwUjm",
+    "TWagXxJClsjjWEi7Z4qYhhXPeIC9XtlmvTyNfsjO2KXd0NNxrMjY+dnNIpcRcL2w",
+    "iIvgwfDNLylaqicdAkAhN4ciEyHtsAIimOXK9WrrI+YBkEreo+AuZAljFGFhFrjU",
+    "ty59OuoAjXARxbalg9c/sQJW/QqsvjGvQmxPsjLX",
+    "-----END RSA PRIVATE KEY-----"
+  ]
+}
